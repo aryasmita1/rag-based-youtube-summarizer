@@ -2,7 +2,7 @@
 A Retrieval-Augmented Generation (RAG) project that extracts YouTube video transcripts and allows users to ask questions or generate summaries using a Hugging Face LLM (Qwen).
 
 
-##  Features
+##  Features 
 - Extracts transcripts from YouTube videos
 - Splits transcript into chunks for processing
 - Generates embeddings using Sentence Transformers
