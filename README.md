@@ -8,7 +8,7 @@ A Retrieval-Augmented Generation (RAG) project that extracts YouTube video trans
 - Generates embeddings using Sentence Transformers
 - Stores vectors using FAISS
 - Retrieves relevant context using similarity search
-- Generates answers using Qwen (Hugging Face API)
+- Generates answers using Qwen (Hugging Face API) 
 - Supports full video summarization
 - Enables question answering over video content
 
