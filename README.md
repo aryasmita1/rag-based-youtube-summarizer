@@ -100,3 +100,6 @@ DeepMind is an AI research company focused on reinforcement learning, neural net
 - Timestamp-based answers
 - Faster local LLM integration
 
+##  Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
